@@ -1,0 +1,295 @@
+
+
+!!! CZĘŚĆ PIERWSZA !!!
+
+
+1. VSS (Volume Snapshow Service, Shadow Copy) - to technologia uwzględniona w systemie Microsoft Windows, która może tworzyć kopie zapasowe lub
+migawki plików komputerowych lub woluminów, nawet gdy są one używane. Jest on realizowany jako usługa Windows o nazwie usługa Volume Shadow 
+Copy.
+
+2. Deduplikacja - jest to eliminowanie powtarzających się części w zbiorze danych. Jest to proces stosowany przy okazji tworzenia 
+kopii zapasowych danych (backup) Celem procesu deduplikacji jest ograniczanie ilości miejsca potrzebnego do przechowywania kopii zapasowych.
+
+3. Kompresja - polega, na zmniejszeniu objętości pliku z danymi, za pomocą dostępnych środków, czyli zazwyczaj mniej lub bardziej zaawansowanych 
+algorytmów
+
+	a) Rodzaje kompresji:
+
+		- Kompresja Stratna - zmniejsza rozmiar pliku poprzez zmniejszanie ilości zawartych w nim informacji.
+		
+		- Kompresja Bezstratna - powoduje zmniejszenie wielkości zdjęcia, nie wpływając na jego jakość.
+
+	b) Stopień kompresji - stosunek wielkości danych cyfrowych przed kompresją do ich wielkości po kompresji.
+
+4. Szyfrowanie - to metoda przekształcania danych w taki sposób, aby nie zostały przed nikogo odczytane, z wyjątkiem osób upoważnionych. 
+Proces szyfrowania konwertuje zwykły tekst do tekstu szyfrowanego za pomocą klucza kryptograficznego. Klucz kryptograficzny jest zbiorem 
+wartości liczbowych znanych i ustalanych przez jego nadawcę i odbiorcę.
+
+	a) Szyfrowanie symetryczne - wykorzystuje tylko jeden klucz, a wszystkie osoby upoważnione używają tego samego tajnego klucza. 
+	Określenie „szyfrowanie asymetryczne” pochodzi od wykorzystania wielu kluczy: jednego do zaszyfrowania i jednego do odszyfrowania danych.
+
+	- Algorytm AES - to szyfrowanie blokowe służące do szyfrowania bloków danych o rozmiarze 128 bitów. Aby zaszyfrować dane o rozmiarze 
+	przekraczającym 128 bitów, algorytm AES używa trybu szyfrowania blokowego.
+
+	- Tryby:
+		
+		- ECB (Electronic Code Book) - W tym trybie szyfrowania blokowego proces szyfrowania AES jest powtarzany dla każdego 
+		128-bitowego bloku danych. Na Ilustracji 1 przedstawiono szyfrowanie danych przy użyciu trybu ECB. Każdy blok jest szyfrowany niezależnie 
+		przy użyciu algorytmu AES i takiego samego klucza szyfrowania. Na potrzeby odszyfrowywania proces ten jest odwracany. 
+		
+		- CBC (Cipher Block Chaining) - Jak już wspomniano, główną słabością trybu ECB jest powstawanie identycznych bloków 
+		zaszyfrowanego tekstu w wyniku szyfrowania identycznych bloków danych. Celem jest znalezienie metody szyfrowania, dzięki której 
+		szyfrowanie każdego bloku przy użyciu tego samego klucza szyfrowania spowoduje powstanie innego zaszyfrowanego tekstu, nawet 
+		jeśli zwykły tekst w co najmniej dwóch blokach jest identyczny. 
+
+	b) Klucz domyślny i klucz użytkownika w kontekście naszej aplikacji -
+
+5. Retencja plików - rutynowe zatrzymywanie przez operatorów informacji o tym, kto, z kim i kiedy łączył się (lub próbował to zrobić) 
+za pomocą środków komunikacji elektronicznej.
+
+6. Kopie zapasowe - kopia danych z pamięci jednego urządzenia zapisana na innym nośniku
+
+	a) Pełne - kompletna kopia zapasowa wszystkich wskazanych zasobów firmy. W tej metodzie nie ma znaczenia, czy i jakie zmiany 
+	w zasobach zaszły od chwili wykonania ostatniej kopii. Każdy kolejny backup pełny jest całkowicie niezależną kopią danych i może być 
+	przywrócony bez udziału innych plików.
+
+	b) Przyrostowe - tworzy kopie zapasowe tylko tych danych, które zostały zmienione lub dodane od czasu wykonania ostatniej kopii zapasowej. 
+	Innymi słowy, tworzona jest kopia zapasowa tylko tych zmian, które zostały wprowadzone od czasu wykonania ostatniej kopii zapasowej.
+
+	c) Różnicowe - metoda, w której zmiany są zapisywane w odniesieniu do ostatniej pełnej kopii zapasowej. Oznacza to, że kompletna 
+	kopia zapasowa jest najpierw zapisywana na nośniku danych. Jeśli wkrótce potem zostaną wprowadzone zmiany, są one zapisywane oddzielnie 
+	na innym nośniku danych.
+
+7. Wykonywanie kopii zapasowych na prawach użytkownika - mogą być przechowywane do czasu, kiedy trwa podstawa prawna do ich przetwarzania.
+
+8. Zmienne środowiskowe - to ciągi zawierające informacje o środowisku systemu oraz o aktualnie zalogowanym użytkowniku. Niektóre programy 
+korzystają z tych informacji w celu stwierdzenia, gdzie umieszczać pliki (takie jak pliki tymczasowe).
+
+9. Harmonogram (systemowy i obecny w naszej aplikacji) - porządkuje zadania
+
+10. Pliki ukryte - plik, który przy normalnym wyświetleniu listy plików jest niewidoczny. W każdym przypadku istnieje sposób na zobaczenie takiego pliku. 
+Sposób ten jest zależny od systemu operacyjnego. Pliki te zwykle służą do przechowywania konfiguracji używanych programów (UNIX) lub są istotne dla 
+działania systemu (DOS/Windows).
+
+11. Filtry plików - umożliwiają określenie, które pliki i foldery mają zostać pominięte w procesie tworzenia kopii zapasowej. Tworząc kryteria w filtrach plików, 
+wskazujemy pliki które mają zostać uwzględnione lub pominięte. W ten sposób możemy podejść do filtracji plików i folderów od dwóch stron, 
+czyli pozbywając się zbędnych zasobów lub filtrując tylko te elementy, które mają być zabezpieczone kopią zapasową. 
+
+12. Usługa systemowa (poziomy/rodzaje uprawnień):
+
+	a) uprawnienia NTFS - stosowane dla każdego pliku i folderu
+
+	b) uprawnienia udziału - stosowane tylko do folderów udostępnionych
+
+13. Active Directory (podstawowe infomacje) - pozwala administratorom sieci, centralnie, z poziomu jednego komputera 
+(odpowiednio skonfigurowanego serwera) zarządzać całym zbiorem użytkowników w sieci, określać ich uprawnienia do zasobów sieciowych,
+a także konfigurować komputery, na których pracują.
+
+14. Wirtualizacja (rodzaje wirtualizatorów, maszyny wirtualne) - proces symulowania przez oprogramowanie istnienia zasobów logicznych, 
+które wykorzystują ustalone podczas konfiguracji zasoby fizyczne. Wirtualna maszyna stosuje wirtualizację w celu emulowania pracy maszyny 
+z danym systemem operacyjnym, pozwalając przez to badać zachowanie tej maszyny i jej oprogramowania, bez wpływania na realny system operacyjny. 
+
+	a) Rodzaje wirtualizatorów: 
+
+		- Wirtualizacja sprzętowa - Wynikiem wirtualizacji sprzętowej jest maszyna wirtualna, która z punktu widzenia użytkownika
+		działa i wykonuje operacje tak samo jak system zainstalowany na fizycznym sprzęcie. Oprogramowanie 
+		zainstalowane na maszynie wirtualnej jest całkowicie niezależne od systemu operacyjnego hypervisora (nadzorcy), 
+		czyli oprogramowania, które zarządza maszynami wirtualnymi, dba o ich poprawne działanie i separację.
+
+		- Wirtualizacja pulpitu - Wirtualizacja pulpitu ma za zadanie odseparować środowisko pulpitu użytkownika od oprogramowania i 
+		aplikacji z niego korzystających. Podstawowym przypadkiem użycia tego rodzaju wirtualizacji jest sytuacja, gdy użytkownik 
+		łączy się ze swojego komputera do oddzielnego serwera oprogramowaniem do obsługi zdalnego pulpitu. Dane i działanie 
+		aplikacji zostają zachowane po stronie serwera, natomiast logika wyświetlania i organizacji pulpitu (głównie interfejs graficzny) 
+		pozostaje po stronie użytkownika – klienta.
+
+		- Wirtualizacja na poziomie systemu operacyjnego - Wirtualizacja na poziomie systemu operacyjnego dokonuje wirtualizacji tylko 
+		tych elementów systemu, które są niezbędne do działania aplikacji. Aplikacja napisana jest w taki sposób, aby używać całości 
+		dostępnych zasobów – poddana konteneryzacji widzi tylko przydzieloną kontenerowi część.
+
+	b) Maszyny wirtualne: 
+		
+		- VMware Workstation Pro
+
+		- Parallels Desktop
+
+		- VMware Fusion Pro
+
+		- VirtualBox
+
+		- VMware vSphere
+
+15. Redundancja - nadmiarowość w stosunku do tego, co konieczne lub zwykłe. Określenie może odnosić się zarówno do nadmiaru zbędnego lub szkodliwego, 
+niecelowo zużywającego zasoby, jak i do pożądanego zabezpieczenia na wypadek uszkodzenia części systemu. 
+
+16. Chmura - to przestrzeń do przechowywania danych, umożliwia ona jednak dostęp do nich w każdym miejscu, nie tylko poprzez używanie jednego komputera, 
+na którym zapisane są dane. Dostęp do chmury uzyskuje się poprzez łącze internetowe.
+
+
+!!! CZĘŚĆ DRUGA !!!
+
+
+1. NAS (Network Attached Storage) - to systemy pamięci masowej dołączane bezpośrednio do sieci LAN. Jest to łatwy do implementacji system konsolidacji 
+danych pomiędzy różnymi platformami systemowymi na poziomie plików.
+
+2. QNAP, Synology, Asustor, Netgear - firmy oferujące serwer NAS.
+
+3. Mono - zestaw narzędzi umożliwiający uruchamianie programów stworzonych dla platformy . NET Framework, w skład których wchodzi między innymi 
+kompilator języka C# oraz środowisko CLR (Common Language Runtime). 
+
+4. Systemy wersjonowania (inaczej - System kontroli wersji) - oprogramowanie służące do śledzenia zmian głównie w kodzie źródłowym oraz pomocy 
+programistom w łączeniu zmian dokonanych w plikach przez wiele osób w różnym czasie.
+
+5. Docker, Kubernetes:
+	
+	Docker - Programistyczna platforma kontenerowa, zaprojektowana z myślą o tworzeniu, dostarczaniu i uruchamianiu aplikacji 
+	z użyciem technologii kontenerowej. Docker jest dostępny w dwóch wersjach: biznesowej i społecznościowej
+
+	Kubernetes - oprogramowanie orkiestracji typu open source na potrzeby wdrażania i skalowania kontenerów oraz zarządzania nimi.
+
+6. Strony wspierające wersjonowanie w chmurze (GitHub i inne) - aktualizacje kodu odbywają się całkowicie w chmurze i jest to 
+zsychronizowane na wszystkich urządzeniach.
+
+7. Klastry - grupa połączonych jednostek komputerowych, które ze sobą współpracują.
+
+8. Centra danych - to proces/miejsce, w którym wszystko co się dzieje podporządkowane jest ochronie, przetwarzaniu, przesyłaniu lub
+kasowaniu danych. Centrum danych znajduje się w specjalnie zaprojektowanym do tego celu budynku. Specjalistyczne podejście jest kluczowe
+dla uzyskania odpowiedniej jakości i opłacalności.
+
+9. RAID (Redundant Array of Independent Disks - nadmiarowa macierz niezależnych dysków) - to technologia przechowywania danych, która
+umożliwia łączenie wielu niezależnych dysków w jedną przestrzeń pamięci masowej.
+
+	A) Rodzaje: 
+		
+	- Sprzętowy - realizowany za pomocą dedykowanych kontrolerów
+
+	- Programowy - realizowany za pośrednictwem odpowiedniego oprogramowania zainstalowanego na komputerze.
+
+10. Systemy plików (FAT, NTFS, ext - platformy):
+
+	FAT - System plików FAT charakteryzuje się tabelą alokacji plików (FAT), która jest tak naprawdę tabelą, 
+	która znajduje się na samej "górze" woluminu.
+
+	NTFS - NTFS jest domyślnym systemem plików używanym w systemach operacyjnych opartych na Windows NT, 
+	począwszy od 1993 r. i wersji Windows NT 3.1, aż po Windows 11. Oferuje on zaawansowane funkcje, takie 
+	jak uprawnienia do plików, szyfrowanie, kompresję oraz księgowanie. System NTFS obsługuje duże rozmiary 
+	plików i partycji, dzięki czemu jest odpowiedni dla nowoczesnych nośników pamięci. Zapewnia jednak ograniczoną 
+	zgodność z innymi systemami operacyjnymi niż Windows.
+
+	ext(4) - Powszechnie używany system plików w systemie operacyjnym Linux. Jest to następca systemu Ext3 i 
+	zapewnia kilka ulepszeń w zakresie działania, skalowalności i niezawodności. Ext4 to domyślny system 
+	plików dla wielu dystrybucji systemu Linux.
+
+11. Rejestr systemowy Windows - jest bazą danych, którą system operacyjny Windows używa do przechowywania informacji o konfiguracji
+komputera. W przeciwieństwie do poprzednich systemów Windows, w Windows XP i Windows Vista rozmiar rejestru nie jest ograniczony.
+
+12. Foldery systemowe (Windows, linux) - foldery zawierające pliki potrzebne do prawidłowego działania systemu.
+
+13. Amazon Web Service (S3, EC2) - jest to platforma chmurowa, która charakteryzuje się ogromnym zakresem usług oraz produktów.
+Opiera się przede wszystkim na przetwarzaniu danych w Cloud Computing.
+
+	Amazon EC2, Amazon S3 - usługi chmur
+
+	Azure - to platforma chmury publicznej firmy Microsoft. Platforma Azure oferuje dużą kolekcję usług, w tym platformę 
+	jako usługę (PaaS), infrastrukturę jako usługę (IaaS) i możliwości usługi zarządzanej bazy danych
+
+14. OpenStack - OpenStack to chmura, którą można zainstalować na swoim sprzęcie i tworzyć zarówno chmury prywatne jak i publiczne. 
+Cały projekt jest open Source i został on zainicjonowany przez NASA i Rackspace.
+
+
+!!! CZĘŚĆ TRZECIA !!!
+
+
+1. Linki symboliczne - specjalny rodzaj pliku w systemach plików. Wskazuje on, odwołując się za pomocą nazwy, na 
+dowolny inny plik lub katalog (który może nawet w danej chwili nie istnieć). Odwołanie jest niewidoczne na poziomie 
+aplikacji, tzn. jest traktowane jak zwykły plik lub katalog. 
+
+2. Specjalne pliki systemowe:
+
+	- pagefile.sys - Komputery z systemem Windows wykorzystują plik pagefile. sys, aby odciążyć pamięć operacyjną RAM. 
+	Jego inna nazwa to plik stronicowania. Jest też bardzo przydatny, jeśli urządzenie ulegnie awarii bądź zechcesz 
+	włączyć tryb hibernacji.
+
+	- hiberfil.sys - Plik hiberfil.sys odpowiada za wprowadzanie komputera w stan hibernacji. W stanie hibernacji 
+	sprzęt pobiera mniej energii elektrycznej, ale jednocześnie nie zamyka otwartych programów czy witryn i pozwala 
+	od razu do nich powrócić po wyjściu z trybu hibernacji.
+
+	- swapfile.sys - Swapfile.sys, jak samo rozszerzenie wskazuje jest plikiem systemowym służącym jako pamięć SWAP. 
+	W skrócie w momencie, gdy w komputerze kończy się miejsce w pamięci operacyjnej, przenosi on część zasobów z super-szybkiej 
+	pamięci RAM na dysk twardy. 
+
+3. Rejestr zdarzeń Windows i logowanie zdarzeń w kontekście programowania - to funkcja w systemie Windows do rejestrowania błędów 
+występujących w systemie Windows, dzięki czemu możemy je analizować w celu rozwiązania istotnych problemów w systemie. 
+System Windows monitoruje wszystkie zdarzenia i zapisuje je w dziennikach zdarzeń.
+
+4. Grupy robocze Windows - logiczny zespół komputerów połączonych ze sobą siecią, które dzielą ze sobą wspólną, centralną bazę katalogową.
+Ta baza danych nazywana jest katalogiem i stanowi bazodanową częsć usługi Active Directory.
+
+5.	IPv4 - jest podstawą komunikacji w sieciach komputerowych, stosuje adresy IP o długości 32 bitów. Każdy adres składa się z 
+	czterech oktetów, oddzielonych kropkami. Każdy oktet reprezentuje liczbę z zakresu od 0 do 255.
+
+	IPv6 - stanowi nowszą wersję adresacji IP w porównaniu do starszej wersji IPv4. Głównym powodem wprowadzenia IPv6 było wyczerpywanie
+	dostępnych adresów IPv4.
+
+6.	MSI - pliki z rozszerzeniem .msi to pakiety instalacyjne dla systemu operacyjnego Windows. Zawierają informacje takie jak
+	wartości rejestru, zasoby multimedialne, zasady instalacji i skompilowany kod, które składają się na program Windows.
+
+	EXE - pliki o tym rozszerzeniu w zamierzeniu zawierają przede wszystkim skompilowany kod maszynowy programu, choć może zawierać
+	także inne zasoby. 
+
+7.	skrypt .BAT - rodzaj skryptów głównie w systemach DOS i Windows, zapisywane jako pliki z rozszerzeniem „.bat” oraz „.cmd”. 
+	Pliki te wykonywane są poprzez odpowiedni interpreter poleceń – początkowo przez command.com, a od Windows NT przez cmd.exe. 
+
+	skrypt .SH - Skrypt w języku sh to plik tekstowy zawierający dowolne polecenia wykonywalne oraz wyrażenia języka sh. 
+	Tak więc w praktyce nawet prosta sekwencja poleceń, normalnie wydawanych w powłoce sh, zapisana w pliku staje się skryptem.
+
+8. Ograniczenia systemów w kontekście ograniczeń dotyczących ścieżek do plików - maks długość (w bajtach) 16 773 116.
+
+9.	Typ pliku (format pliku) - ustalony standard zapisu informacji w pliku danego typu. Sposób zakodowania informacji lub danych 
+	zależy od zastosowanej aplikacji.
+
+	Rozszerzenie - sposób oznaczania typu pliku za pomocą sufiksu jego nazwy. Rozszerzenie jest oddzielone od reszty nazwy 
+	za pomocą kropki.
+
+10.	DLL - biblioteka współdzielona (z ang. shared library) w środowisku Microsoft Windows, przechowująca implementacje 
+	różnych podprogramów programu lub zasoby programu
+
+	EXE - pliki o tym rozszerzeniu w zamierzeniu zawierają przede wszystkim skompilowany kod maszynowy programu, choć może zawierać
+	także inne zasoby. 
+
+11.	Proces - egzemplarz wykonywanego programu. Aplikacja może składać się z większej liczby procesów. 
+	Każdy nowo powstały proces otrzymuje unikatowy numer, który go jednoznacznie identyfikuje.
+
+	Wątek - część programu wykonywana współbieżnie w obrębie jednego procesu; w jednym procesie może istnieć wiele wątków. 
+
+12. Wielowątkowość - cecha systemu operacyjnego, dzięki której w ramach jednego procesu może być wykonywanych kilka zadań nazywanych 
+wątkami. Nowe zadania to kolejne ciągi instrukcji realizowane do pewnego stopnia niezależnie. Wszystkie wątki (zadania) w ramach tego 
+samego procesu współdzielą tą samą wirtualną przestrzeń adresową zawierającą kod programu i jego dane. 
+
+13.	Grafika wektorowa - jeden z dwóch podstawowych rodzajów grafiki komputerowej, w której obraz opisany jest za pomocą figur 
+	geometrycznych (w przypadku grafiki dwuwymiarowej) lub brył geometrycznych (w przypadku grafiki trójwymiarowej), 
+	umiejscowionych w matematycznie zdefiniowanym układzie współrzędnych, odpowiednio dwu- lub trójwymiarowym.
+
+	Grafika rastrowa - prezentacja obrazu za pomocą mapy punktów w postaci prostokątnej siatki odpowiednio kolorowanych 
+	pikseli na monitorze komputera, drukarce lub innym urządzeniu wyjściowym. W systemach komputerowych grafika 
+	rastrowa jest przechowywana w sposób skompresowany (stratnie lub bezstratnie) albo nieskompresowany w wielu 
+	formatach plików graficznych.
+
+14. Bitlocker - to domyślnie zainstalowana w systemach Windows funkcja służąca do szyfrowania danych. Za jej pomocą możemy 
+		szybko zabezpieczyć dysk lub partycje przed niepowołanymi osobami.
+
+15.	HDD - Dysk HDD, czyli hard disk drive to po prostu tak zwany dysk twardy. Innymi słowy, jest to pamięć masowa w naszym 
+	komputerze, która do zapisu wykorzystuje nośnik magnetyczny. 
+
+	SSD - Dysk SSD to nośnik danych wykorzystujący pamięć flash. Tak naprawdę, pod względem technicznym jest to urządzenie 
+	zbliżone znacznie bardziej do pendrive’a niż do dysku twardego, wykorzystującego aluminiowy talerz. Za zapis i odczyt 
+	odpowiadają zamiast niego tutaj kości pamięci i kontroler umożliwiający równomierne zapisywanie danych pomiędzy nimi.
+
+16.	UEFI - Unified Extensible Firmware Interface to interfejs pomiędzy systemem operacyjnym a firmware. Jednocześnie jest 
+	to następca BIOSu. UEFI został opracowany przez firmę Intel dla współpracy z procesorem Itanium.
+
+	BIOS - Najprościej rzecz ujmując, BIOS jest podstawowym systemem wejścia-wyjścia (Basic Input/Output System). 
+	W pewnym sensie pośredniczy pomiędzy systemem operacyjnym a sprzętem komputerowym.
+
+
+
+	
