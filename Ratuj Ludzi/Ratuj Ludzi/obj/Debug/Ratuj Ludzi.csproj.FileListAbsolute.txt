@@ -1,0 +1,15 @@
+C:\Users\Xopero\source\repos\Ratuj Ludzi\Ratuj Ludzi\bin\Debug\Ratuj Ludzi.exe.config
+C:\Users\Xopero\source\repos\Ratuj Ludzi\Ratuj Ludzi\bin\Debug\Ratuj Ludzi.exe
+C:\Users\Xopero\source\repos\Ratuj Ludzi\Ratuj Ludzi\bin\Debug\Ratuj Ludzi.pdb
+C:\Users\Xopero\source\repos\Ratuj Ludzi\Ratuj Ludzi\obj\Debug\Ratuj Ludzi.csproj.AssemblyReference.cache
+C:\Users\Xopero\source\repos\Ratuj Ludzi\Ratuj Ludzi\obj\Debug\Page1.g.cs
+C:\Users\Xopero\source\repos\Ratuj Ludzi\Ratuj Ludzi\obj\Debug\App.g.cs
+C:\Users\Xopero\source\repos\Ratuj Ludzi\Ratuj Ludzi\obj\Debug\Ratuj Ludzi_MarkupCompile.cache
+C:\Users\Xopero\source\repos\Ratuj Ludzi\Ratuj Ludzi\obj\Debug\Ratuj Ludzi_MarkupCompile.lref
+C:\Users\Xopero\source\repos\Ratuj Ludzi\Ratuj Ludzi\obj\Debug\Page1.baml
+C:\Users\Xopero\source\repos\Ratuj Ludzi\Ratuj Ludzi\obj\Debug\Ratuj Ludzi.g.resources
+C:\Users\Xopero\source\repos\Ratuj Ludzi\Ratuj Ludzi\obj\Debug\Ratuj_Ludzi.Properties.Resources.resources
+C:\Users\Xopero\source\repos\Ratuj Ludzi\Ratuj Ludzi\obj\Debug\Ratuj Ludzi.csproj.GenerateResource.cache
+C:\Users\Xopero\source\repos\Ratuj Ludzi\Ratuj Ludzi\obj\Debug\Ratuj Ludzi.csproj.CoreCompileInputs.cache
+C:\Users\Xopero\source\repos\Ratuj Ludzi\Ratuj Ludzi\obj\Debug\Ratuj Ludzi.exe
+C:\Users\Xopero\source\repos\Ratuj Ludzi\Ratuj Ludzi\obj\Debug\Ratuj Ludzi.pdb
