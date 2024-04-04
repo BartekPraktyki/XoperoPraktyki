@@ -1,0 +1,16 @@
+C:\Users\Xopero\source\repos\Kalkulator\Kalkulator\bin\Debug\net8.0-windows\Kalkulator.exe
+C:\Users\Xopero\source\repos\Kalkulator\Kalkulator\bin\Debug\net8.0-windows\Kalkulator.deps.json
+C:\Users\Xopero\source\repos\Kalkulator\Kalkulator\bin\Debug\net8.0-windows\Kalkulator.runtimeconfig.json
+C:\Users\Xopero\source\repos\Kalkulator\Kalkulator\bin\Debug\net8.0-windows\Kalkulator.dll
+C:\Users\Xopero\source\repos\Kalkulator\Kalkulator\bin\Debug\net8.0-windows\Kalkulator.pdb
+C:\Users\Xopero\source\repos\Kalkulator\Kalkulator\obj\Debug\net8.0-windows\Kalkulator.Form1.resources
+C:\Users\Xopero\source\repos\Kalkulator\Kalkulator\obj\Debug\net8.0-windows\Kalkulator.csproj.GenerateResource.cache
+C:\Users\Xopero\source\repos\Kalkulator\Kalkulator\obj\Debug\net8.0-windows\Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xopero\source\repos\Kalkulator\Kalkulator\obj\Debug\net8.0-windows\Kalkulator.AssemblyInfoInputs.cache
+C:\Users\Xopero\source\repos\Kalkulator\Kalkulator\obj\Debug\net8.0-windows\Kalkulator.AssemblyInfo.cs
+C:\Users\Xopero\source\repos\Kalkulator\Kalkulator\obj\Debug\net8.0-windows\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\Xopero\source\repos\Kalkulator\Kalkulator\obj\Debug\net8.0-windows\Kalkulator.dll
+C:\Users\Xopero\source\repos\Kalkulator\Kalkulator\obj\Debug\net8.0-windows\refint\Kalkulator.dll
+C:\Users\Xopero\source\repos\Kalkulator\Kalkulator\obj\Debug\net8.0-windows\Kalkulator.pdb
+C:\Users\Xopero\source\repos\Kalkulator\Kalkulator\obj\Debug\net8.0-windows\Kalkulator.genruntimeconfig.cache
+C:\Users\Xopero\source\repos\Kalkulator\Kalkulator\obj\Debug\net8.0-windows\ref\Kalkulator.dll
