@@ -1,0 +1,16 @@
+C:\Users\Xopero\source\repos\LabelBouncer1\LabelBouncer1\bin\Debug\net8.0-windows\LabelBouncer1.exe
+C:\Users\Xopero\source\repos\LabelBouncer1\LabelBouncer1\bin\Debug\net8.0-windows\LabelBouncer1.deps.json
+C:\Users\Xopero\source\repos\LabelBouncer1\LabelBouncer1\bin\Debug\net8.0-windows\LabelBouncer1.runtimeconfig.json
+C:\Users\Xopero\source\repos\LabelBouncer1\LabelBouncer1\bin\Debug\net8.0-windows\LabelBouncer1.dll
+C:\Users\Xopero\source\repos\LabelBouncer1\LabelBouncer1\bin\Debug\net8.0-windows\LabelBouncer1.pdb
+C:\Users\Xopero\source\repos\LabelBouncer1\LabelBouncer1\obj\Debug\net8.0-windows\LabelBouncer1.Form1.resources
+C:\Users\Xopero\source\repos\LabelBouncer1\LabelBouncer1\obj\Debug\net8.0-windows\LabelBouncer1.csproj.GenerateResource.cache
+C:\Users\Xopero\source\repos\LabelBouncer1\LabelBouncer1\obj\Debug\net8.0-windows\LabelBouncer1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xopero\source\repos\LabelBouncer1\LabelBouncer1\obj\Debug\net8.0-windows\LabelBouncer1.AssemblyInfoInputs.cache
+C:\Users\Xopero\source\repos\LabelBouncer1\LabelBouncer1\obj\Debug\net8.0-windows\LabelBouncer1.AssemblyInfo.cs
+C:\Users\Xopero\source\repos\LabelBouncer1\LabelBouncer1\obj\Debug\net8.0-windows\LabelBouncer1.csproj.CoreCompileInputs.cache
+C:\Users\Xopero\source\repos\LabelBouncer1\LabelBouncer1\obj\Debug\net8.0-windows\LabelBouncer1.dll
+C:\Users\Xopero\source\repos\LabelBouncer1\LabelBouncer1\obj\Debug\net8.0-windows\refint\LabelBouncer1.dll
+C:\Users\Xopero\source\repos\LabelBouncer1\LabelBouncer1\obj\Debug\net8.0-windows\LabelBouncer1.pdb
+C:\Users\Xopero\source\repos\LabelBouncer1\LabelBouncer1\obj\Debug\net8.0-windows\LabelBouncer1.genruntimeconfig.cache
+C:\Users\Xopero\source\repos\LabelBouncer1\LabelBouncer1\obj\Debug\net8.0-windows\ref\LabelBouncer1.dll
