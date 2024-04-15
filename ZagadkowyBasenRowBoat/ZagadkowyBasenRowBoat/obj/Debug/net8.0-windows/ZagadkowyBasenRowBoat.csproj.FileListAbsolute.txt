@@ -1,0 +1,6 @@
+C:\Users\Xopero\source\repos\ZagadkowyBasenRowBoat\ZagadkowyBasenRowBoat\obj\Debug\net8.0-windows\ZagadkowyBasenRowBoat.Form1.resources
+C:\Users\Xopero\source\repos\ZagadkowyBasenRowBoat\ZagadkowyBasenRowBoat\obj\Debug\net8.0-windows\ZagadkowyBasenRowBoat.csproj.GenerateResource.cache
+C:\Users\Xopero\source\repos\ZagadkowyBasenRowBoat\ZagadkowyBasenRowBoat\obj\Debug\net8.0-windows\ZagadkowyBasenRowBoat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xopero\source\repos\ZagadkowyBasenRowBoat\ZagadkowyBasenRowBoat\obj\Debug\net8.0-windows\ZagadkowyBasenRowBoat.AssemblyInfoInputs.cache
+C:\Users\Xopero\source\repos\ZagadkowyBasenRowBoat\ZagadkowyBasenRowBoat\obj\Debug\net8.0-windows\ZagadkowyBasenRowBoat.AssemblyInfo.cs
+C:\Users\Xopero\source\repos\ZagadkowyBasenRowBoat\ZagadkowyBasenRowBoat\obj\Debug\net8.0-windows\ZagadkowyBasenRowBoat.csproj.CoreCompileInputs.cache
