@@ -1,0 +1,14 @@
+C:\Users\Xopero\source\repos\AplikacjaKonsolowaJewels\AplikacjaKonsolowaJewels\bin\Debug\net8.0\AplikacjaKonsolowaJewels.exe
+C:\Users\Xopero\source\repos\AplikacjaKonsolowaJewels\AplikacjaKonsolowaJewels\bin\Debug\net8.0\AplikacjaKonsolowaJewels.deps.json
+C:\Users\Xopero\source\repos\AplikacjaKonsolowaJewels\AplikacjaKonsolowaJewels\bin\Debug\net8.0\AplikacjaKonsolowaJewels.runtimeconfig.json
+C:\Users\Xopero\source\repos\AplikacjaKonsolowaJewels\AplikacjaKonsolowaJewels\bin\Debug\net8.0\AplikacjaKonsolowaJewels.dll
+C:\Users\Xopero\source\repos\AplikacjaKonsolowaJewels\AplikacjaKonsolowaJewels\bin\Debug\net8.0\AplikacjaKonsolowaJewels.pdb
+C:\Users\Xopero\source\repos\AplikacjaKonsolowaJewels\AplikacjaKonsolowaJewels\obj\Debug\net8.0\AplikacjaKonsolowaJewels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xopero\source\repos\AplikacjaKonsolowaJewels\AplikacjaKonsolowaJewels\obj\Debug\net8.0\AplikacjaKonsolowaJewels.AssemblyInfoInputs.cache
+C:\Users\Xopero\source\repos\AplikacjaKonsolowaJewels\AplikacjaKonsolowaJewels\obj\Debug\net8.0\AplikacjaKonsolowaJewels.AssemblyInfo.cs
+C:\Users\Xopero\source\repos\AplikacjaKonsolowaJewels\AplikacjaKonsolowaJewels\obj\Debug\net8.0\AplikacjaKonsolowaJewels.csproj.CoreCompileInputs.cache
+C:\Users\Xopero\source\repos\AplikacjaKonsolowaJewels\AplikacjaKonsolowaJewels\obj\Debug\net8.0\AplikacjaKonsolowaJewels.dll
+C:\Users\Xopero\source\repos\AplikacjaKonsolowaJewels\AplikacjaKonsolowaJewels\obj\Debug\net8.0\refint\AplikacjaKonsolowaJewels.dll
+C:\Users\Xopero\source\repos\AplikacjaKonsolowaJewels\AplikacjaKonsolowaJewels\obj\Debug\net8.0\AplikacjaKonsolowaJewels.pdb
+C:\Users\Xopero\source\repos\AplikacjaKonsolowaJewels\AplikacjaKonsolowaJewels\obj\Debug\net8.0\AplikacjaKonsolowaJewels.genruntimeconfig.cache
+C:\Users\Xopero\source\repos\AplikacjaKonsolowaJewels\AplikacjaKonsolowaJewels\obj\Debug\net8.0\ref\AplikacjaKonsolowaJewels.dll
