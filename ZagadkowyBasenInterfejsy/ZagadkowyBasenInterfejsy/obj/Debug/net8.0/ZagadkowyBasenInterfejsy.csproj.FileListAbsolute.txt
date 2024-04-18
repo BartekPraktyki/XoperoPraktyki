@@ -1,0 +1,14 @@
+C:\Users\Xopero\source\repos\ZagadkowyBasenInterfejsy\ZagadkowyBasenInterfejsy\bin\Debug\net8.0\ZagadkowyBasenInterfejsy.exe
+C:\Users\Xopero\source\repos\ZagadkowyBasenInterfejsy\ZagadkowyBasenInterfejsy\bin\Debug\net8.0\ZagadkowyBasenInterfejsy.deps.json
+C:\Users\Xopero\source\repos\ZagadkowyBasenInterfejsy\ZagadkowyBasenInterfejsy\bin\Debug\net8.0\ZagadkowyBasenInterfejsy.runtimeconfig.json
+C:\Users\Xopero\source\repos\ZagadkowyBasenInterfejsy\ZagadkowyBasenInterfejsy\bin\Debug\net8.0\ZagadkowyBasenInterfejsy.dll
+C:\Users\Xopero\source\repos\ZagadkowyBasenInterfejsy\ZagadkowyBasenInterfejsy\bin\Debug\net8.0\ZagadkowyBasenInterfejsy.pdb
+C:\Users\Xopero\source\repos\ZagadkowyBasenInterfejsy\ZagadkowyBasenInterfejsy\obj\Debug\net8.0\ZagadkowyBasenInterfejsy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xopero\source\repos\ZagadkowyBasenInterfejsy\ZagadkowyBasenInterfejsy\obj\Debug\net8.0\ZagadkowyBasenInterfejsy.AssemblyInfoInputs.cache
+C:\Users\Xopero\source\repos\ZagadkowyBasenInterfejsy\ZagadkowyBasenInterfejsy\obj\Debug\net8.0\ZagadkowyBasenInterfejsy.AssemblyInfo.cs
+C:\Users\Xopero\source\repos\ZagadkowyBasenInterfejsy\ZagadkowyBasenInterfejsy\obj\Debug\net8.0\ZagadkowyBasenInterfejsy.csproj.CoreCompileInputs.cache
+C:\Users\Xopero\source\repos\ZagadkowyBasenInterfejsy\ZagadkowyBasenInterfejsy\obj\Debug\net8.0\ZagadkowyBasenInterfejsy.dll
+C:\Users\Xopero\source\repos\ZagadkowyBasenInterfejsy\ZagadkowyBasenInterfejsy\obj\Debug\net8.0\refint\ZagadkowyBasenInterfejsy.dll
+C:\Users\Xopero\source\repos\ZagadkowyBasenInterfejsy\ZagadkowyBasenInterfejsy\obj\Debug\net8.0\ZagadkowyBasenInterfejsy.pdb
+C:\Users\Xopero\source\repos\ZagadkowyBasenInterfejsy\ZagadkowyBasenInterfejsy\obj\Debug\net8.0\ZagadkowyBasenInterfejsy.genruntimeconfig.cache
+C:\Users\Xopero\source\repos\ZagadkowyBasenInterfejsy\ZagadkowyBasenInterfejsy\obj\Debug\net8.0\ref\ZagadkowyBasenInterfejsy.dll
