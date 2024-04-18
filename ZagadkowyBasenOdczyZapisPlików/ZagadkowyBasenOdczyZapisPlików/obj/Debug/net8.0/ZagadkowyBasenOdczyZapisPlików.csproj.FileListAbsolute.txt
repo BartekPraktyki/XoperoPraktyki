@@ -1,0 +1,14 @@
+C:\Users\Xopero\source\repos\ZagadkowyBasenOdczyZapisPlików\ZagadkowyBasenOdczyZapisPlików\bin\Debug\net8.0\ZagadkowyBasenOdczyZapisPlików.exe
+C:\Users\Xopero\source\repos\ZagadkowyBasenOdczyZapisPlików\ZagadkowyBasenOdczyZapisPlików\bin\Debug\net8.0\ZagadkowyBasenOdczyZapisPlików.deps.json
+C:\Users\Xopero\source\repos\ZagadkowyBasenOdczyZapisPlików\ZagadkowyBasenOdczyZapisPlików\bin\Debug\net8.0\ZagadkowyBasenOdczyZapisPlików.runtimeconfig.json
+C:\Users\Xopero\source\repos\ZagadkowyBasenOdczyZapisPlików\ZagadkowyBasenOdczyZapisPlików\bin\Debug\net8.0\ZagadkowyBasenOdczyZapisPlików.dll
+C:\Users\Xopero\source\repos\ZagadkowyBasenOdczyZapisPlików\ZagadkowyBasenOdczyZapisPlików\bin\Debug\net8.0\ZagadkowyBasenOdczyZapisPlików.pdb
+C:\Users\Xopero\source\repos\ZagadkowyBasenOdczyZapisPlików\ZagadkowyBasenOdczyZapisPlików\obj\Debug\net8.0\ZagadkowyBasenOdczyZapisPlików.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xopero\source\repos\ZagadkowyBasenOdczyZapisPlików\ZagadkowyBasenOdczyZapisPlików\obj\Debug\net8.0\ZagadkowyBasenOdczyZapisPlików.AssemblyInfoInputs.cache
+C:\Users\Xopero\source\repos\ZagadkowyBasenOdczyZapisPlików\ZagadkowyBasenOdczyZapisPlików\obj\Debug\net8.0\ZagadkowyBasenOdczyZapisPlików.AssemblyInfo.cs
+C:\Users\Xopero\source\repos\ZagadkowyBasenOdczyZapisPlików\ZagadkowyBasenOdczyZapisPlików\obj\Debug\net8.0\ZagadkowyBasenOdczyZapisPlików.csproj.CoreCompileInputs.cache
+C:\Users\Xopero\source\repos\ZagadkowyBasenOdczyZapisPlików\ZagadkowyBasenOdczyZapisPlików\obj\Debug\net8.0\ZagadkowyBasenOdczyZapisPlików.dll
+C:\Users\Xopero\source\repos\ZagadkowyBasenOdczyZapisPlików\ZagadkowyBasenOdczyZapisPlików\obj\Debug\net8.0\refint\ZagadkowyBasenOdczyZapisPlików.dll
+C:\Users\Xopero\source\repos\ZagadkowyBasenOdczyZapisPlików\ZagadkowyBasenOdczyZapisPlików\obj\Debug\net8.0\ZagadkowyBasenOdczyZapisPlików.pdb
+C:\Users\Xopero\source\repos\ZagadkowyBasenOdczyZapisPlików\ZagadkowyBasenOdczyZapisPlików\obj\Debug\net8.0\ZagadkowyBasenOdczyZapisPlików.genruntimeconfig.cache
+C:\Users\Xopero\source\repos\ZagadkowyBasenOdczyZapisPlików\ZagadkowyBasenOdczyZapisPlików\obj\Debug\net8.0\ref\ZagadkowyBasenOdczyZapisPlików.dll
