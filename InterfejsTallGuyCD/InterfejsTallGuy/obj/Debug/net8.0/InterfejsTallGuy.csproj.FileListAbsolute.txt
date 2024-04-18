@@ -1,0 +1,14 @@
+C:\Users\Xopero\source\repos\InterfejsTallGuyCD\InterfejsTallGuy\obj\Debug\net8.0\InterfejsTallGuy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xopero\source\repos\InterfejsTallGuyCD\InterfejsTallGuy\obj\Debug\net8.0\InterfejsTallGuy.AssemblyInfoInputs.cache
+C:\Users\Xopero\source\repos\InterfejsTallGuyCD\InterfejsTallGuy\obj\Debug\net8.0\InterfejsTallGuy.AssemblyInfo.cs
+C:\Users\Xopero\source\repos\InterfejsTallGuyCD\InterfejsTallGuy\obj\Debug\net8.0\InterfejsTallGuy.csproj.CoreCompileInputs.cache
+C:\Users\Xopero\source\repos\InterfejsTallGuyCD\InterfejsTallGuy\bin\Debug\net8.0\InterfejsTallGuy.exe
+C:\Users\Xopero\source\repos\InterfejsTallGuyCD\InterfejsTallGuy\bin\Debug\net8.0\InterfejsTallGuy.deps.json
+C:\Users\Xopero\source\repos\InterfejsTallGuyCD\InterfejsTallGuy\bin\Debug\net8.0\InterfejsTallGuy.runtimeconfig.json
+C:\Users\Xopero\source\repos\InterfejsTallGuyCD\InterfejsTallGuy\bin\Debug\net8.0\InterfejsTallGuy.dll
+C:\Users\Xopero\source\repos\InterfejsTallGuyCD\InterfejsTallGuy\bin\Debug\net8.0\InterfejsTallGuy.pdb
+C:\Users\Xopero\source\repos\InterfejsTallGuyCD\InterfejsTallGuy\obj\Debug\net8.0\InterfejsTallGuy.dll
+C:\Users\Xopero\source\repos\InterfejsTallGuyCD\InterfejsTallGuy\obj\Debug\net8.0\refint\InterfejsTallGuy.dll
+C:\Users\Xopero\source\repos\InterfejsTallGuyCD\InterfejsTallGuy\obj\Debug\net8.0\InterfejsTallGuy.pdb
+C:\Users\Xopero\source\repos\InterfejsTallGuyCD\InterfejsTallGuy\obj\Debug\net8.0\InterfejsTallGuy.genruntimeconfig.cache
+C:\Users\Xopero\source\repos\InterfejsTallGuyCD\InterfejsTallGuy\obj\Debug\net8.0\ref\InterfejsTallGuy.dll
